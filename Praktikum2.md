@@ -4,4 +4,4 @@ Tänases (20.09.2023) opsys praktikumis installeerisin virtuaalmasinasse ubuntu 
 
 Lisasin siia kuvatõmmise, mis tõestab mu praktikumi läbitust.
 
-![Praktikum2](Praktikum2.png)
+![Praktikum2]
